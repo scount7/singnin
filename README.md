@@ -5,13 +5,8 @@ English | [简体中文](https://github.com/FHYQ-Dong/GLaDOS-Bot-Action-with-Tel
  A Github Action that can help you sign in GlaDOS automatically with telegram notice.  
  
  Thanks [@GithubGaoYang](https://github.com/GithubGaoYang) for Chinese version.
- 
-### Usage
-#### Preparation  
 
- 1. Apply for a bot on telegram at [BotFather](https://t.me/BotFather) and remember its `TOKEN`:  
- 
-    - You can follow the guidance provided by BotFather.  
+he guidance provided by BotFather.  
     
     ![1](https://user-images.githubusercontent.com/87631978/230318685-64a109e4-4943-49c7-9d06-4e4d6e10d1d5.jpg)
     ![2](https://user-images.githubusercontent.com/87631978/230318690-f8ef0ffc-dde5-4d0a-9a54-5d06eb6118d5.jpg)
